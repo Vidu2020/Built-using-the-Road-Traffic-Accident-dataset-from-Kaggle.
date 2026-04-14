@@ -1,0 +1,2 @@
+# Built-using-the-Road-Traffic-Accident-dataset-from-Kaggle.
+On a rainy evening, watching traffic crawl, I realized a few seconds can decide if a crash is slight, serious, or fatal. That insight led me to build an ML pipeline on Kaggle dataset to predict severity, using cleaning, feature engineering, and ensemble models to support smarter, safer road decisions, proactive planning, and emergency response.
